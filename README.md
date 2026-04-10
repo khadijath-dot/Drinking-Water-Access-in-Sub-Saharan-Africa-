@@ -3,7 +3,7 @@ An extensive project on drinking water access in Sub-Saharan Africa. File includ
 
 **INFRASTRUCTURE ANALYSIS**
 
-*Project \#1: Drinking Water Access in Sub-Saharan Africa (JMP WaSH Database)*
+*Drinking Water Access in Sub-Saharan Africa (JMP WaSH Database)*
 
 The Water Project is a non-governmental organization (NGO) working to bring drinking water service access to countries globally. In recent years, they have focused many of their efforts on **Sub-Saharan Africa**. The Water Project is interested in determining how access to drinking water in Sub-Saharan Africa has improved over time and what gaps in access still need to be addressed in coming years. This NGO has hired you to examine the JMP Household water access dataset to analyze trends in drinking water access. They are particularly interested in comparing results between countries over time.
 
