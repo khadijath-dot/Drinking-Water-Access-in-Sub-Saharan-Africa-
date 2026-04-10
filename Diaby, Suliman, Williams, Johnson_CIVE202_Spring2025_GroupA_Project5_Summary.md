@@ -44,7 +44,7 @@ The first figure studied country vs service level and complied the scatterplot b
 
 The very first graph we created was plotting the year against the percent coverage while grouping by country to visualize changes in access to safely managed drinking water services. Immediately, you can see the vertical clusters in each year. One explanation for this is that there are so many countries in the dataset that have a percent coverage below 50%. This means that the countries with a lower coverage in the beginning, the earliest year the data was taken, mostly maintained that level until the end data of the dataset. The countries below the 50% line that do increase in percent reach experience a slight incline. This observation implies that their progress in expanding access to safely managed drinking water services is and will remain limited over time if intervention is not undertaken.
 
-![Water Access Graph](drinking%20water%20access%20by%20country%20graph.png)
+![Water Access Graph](images/drinking%20water%20access%20by%20country%20graph.png)
 
 Figure 1 - Scatterplot of drinking water access by country over time for safely managed water sources
 
@@ -52,13 +52,13 @@ Chad, according to Figure 1, appears to have the lowest percent coverage of safe
 
 In Figure 1, there is a large gap, closer to the top of the graph, starting from 2000 and widening towards 2015 before it ends up closing. On the surface, it may seem as though there is an absence of water services. In reality, it’s most likely a lack of available data during that period. The lack of data reflects changes in criteria for what really constitutes as “safely managed” drinking water. After Sustainable Development Goals (SDGs) were adopted in 2015, the new standard for safely managed drinking water included that water sources be located on premises, readily available, and not contaminated. With that being said, we think countries that had really good coverage before 2015 should be monitored from time to time since the standards did change, creating that massive gap in our graph.
 
-![Sub-Saharan Africa Graph](drinking%20water%20access%20in%20sub-saharan%20africa%20graph.png)
+![Sub-Saharan Africa Graph](images/drinking%20water%20access%20in%20sub-saharan%20africa%20graph.png)
 
 Figure 2 - Scatterplot of drinking water access in Sub-Saharan Africa for safely managed water
 
 Once we saw the amount of countries with outrageously low coverage for safely managed water and the overall low coverage in rural areas (Figure 2), with a little bit of knowledge and research, we concluded that most of the countries below the 50% coverage line are rural. With that in mind, we decided to go study further in some of these countries. If these countries had an extremely low coverage for the best water source available in the database, they might have higher coverage for one of the worst water conditions: unimproved service levels. We made an interactive bar chart graphing country against the percent access grouped by residence type (Figure 3). We wanted to better examine countries that have little to almost no access to good water. The red bars indicating rural residence range from really tiny and obscure to above most of them going above 40%, just what we predicted. In almost every country, rural bars are significantly higher taller than urban bars. Countries with extremely high rural unimproved coverage (\>50%) in 2000 include Mozambique, Rwanda, Togo, and Sierra Leone and these align with the low-coverage countries from Figure 1. Other countries, like Botswana and Seychelles, have low unimproved urban coverage. This suggests that urban infrastructure was already developed by 2000.
 
-![Unimproved Water Coverage](unimproved_water_2000.png)
+![Unimproved Water Coverage](images/unimproved_water_2000.png)
 
 Figure 3 - Bar chart of unimproved water sources in 2000
 
