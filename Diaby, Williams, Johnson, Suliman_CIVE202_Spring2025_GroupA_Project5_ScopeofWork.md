@@ -37,7 +37,7 @@ The deliverables and due dates for this project are summarized in the following 
 | Deliverables            | Files Included                                                    | Due to Client by |
 |-------------------------|-------------------------------------------------------------------|------------------|
 | Raw Data Files          | washdash-countries.csv<br>washdash-regions.csv                    | 05/10/25         |
-| SOW                     | CIVE202_Spring2025_GroupA_Project5_ScopeofWork.docx               | 05/10/25         |
+| Scope of Work                     | CIVE202_Spring2025_GroupA_Project5_ScopeofWork.docx               | 05/10/25         |
 | Gantt Chart             | CIVE202\_ Spring2025_GroupA_Project5_GanttChart.xlsx              | 05/10/25         |
 | Timesheet               | CIVE202\_ Spring2025_GroupA_Project5\_ Timesheet.xlsx             | 05/10/25         |
 | Python Code File        | CIVE202\_ Spring2025_GroupA_Project5\_ PythonCode.ipynb           | 05/10/25         |
