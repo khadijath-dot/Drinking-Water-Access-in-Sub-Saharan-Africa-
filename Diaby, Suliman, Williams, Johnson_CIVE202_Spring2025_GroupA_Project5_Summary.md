@@ -58,7 +58,7 @@ Figure 2 - Scatterplot of drinking water access in Sub-Saharan Africa for safely
 
 Once we saw the amount of countries with outrageously low coverage for safely managed water and the overall low coverage in rural areas (Figure 2), with a little bit of knowledge and research, we concluded that most of the countries below the 50% coverage line are rural. With that in mind, we decided to go study further in some of these countries. If these countries had an extremely low coverage for the best water source available in the database, they might have higher coverage for one of the worst water conditions: unimproved service levels. We made an interactive bar chart graphing country against the percent access grouped by residence type (Figure 3). We wanted to better examine countries that have little to almost no access to good water. The red bars indicating rural residence range from really tiny and obscure to above most of them going above 40%, just what we predicted. In almost every country, rural bars are significantly higher taller than urban bars. Countries with extremely high rural unimproved coverage (\>50%) in 2000 include Mozambique, Rwanda, Togo, and Sierra Leone and these align with the low-coverage countries from Figure 1. Other countries, like Botswana and Seychelles, have low unimproved urban coverage. This suggests that urban infrastructure was already developed by 2000.
 
-![Unimproved Water Coverage](unimproved%20water%20coverage%20by%20country%20and%20residence%20type%20\(2000\)%20graph.png)
+![Unimproved Water Coverage](unimproved_water_2000.png)
 
 Figure 3 - Bar chart of unimproved water sources in 2000
 
